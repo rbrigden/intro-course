@@ -1,4 +1,4 @@
-# a flavour of CS in 15 hours 
+# A flavour of CS in 15 hours 
 
 This course was taught in July 2015 to middle school and early high school students at the Chatham Marconi Maritime Center (CMMC) in Chatham,
 Massachusetts. The compressed course is intended to give students a simple introduction to computer science principles and serve as a
@@ -11,7 +11,8 @@ presentation, notes and documented mini-project.
 
 ### what is a computer?
 
-Session 1 will have students question what a computer really is as they are guided through a historically driven presentation about computer
+Session 1 will have students question the technology they take for 
+granted every day as they are guided through a historically driven presentation about computer
 hardware, binary and hexadecimal numbers, and logic gates.
 
 #### micro lessons
@@ -26,8 +27,8 @@ interactive logic gate game
 
 ### cookin' up code
 
-Session 2 will introduce students to the concept of a programming language as an intellegible way to assign a computer instructions.
-Students will design 'recipes' to accomplish ordinary tasks and then apply those methods to write pseudo-code for a given algorithm.
+Session 2 introduces the concept of a programming language as an intellegible way to assign a computer instructions.
+Students will design 'recipes' to accomplish ordinary tasks and then apply those methods to write pseudo-code for a given algorithm. Student's write python code along the lines of their pseudo-code and complete a thorough code design process for the first time.
 
 #### micro lessons
   * intro to algorithms
@@ -42,8 +43,7 @@ Students will design 'recipes' to accomplish ordinary tasks and then apply those
 
 ### loop mania
 
-Session 3 will teach students how to think about loops as tasks executed under a set of conditions. They will apply loops to
-solve problems
+Session 3 teaches students how to think about loops and their applications. Lists and tuples are introduced as elementary datastructures and methods as executable snippets of code. Loops are then used to iterate through lists and other common data structures in order to solve otherwise-tricky problems
 
 	* methods as instruction containers
 	* applications of loops
@@ -51,9 +51,10 @@ solve problems
 	* the ``while`` loop
 	* the ``for`` loop
 
-
 ### start the project
 
 
 ### finish the project
 
+
+ as tasks executed under a set of conditions.
