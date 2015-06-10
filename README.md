@@ -35,7 +35,7 @@ Students will design 'recipes' to accomplish ordinary tasks and then apply those
   * how to write pseudo-code
   * basic datatypes
   * arithmetic with python
-  * boolean operators and `if else`
+  * boolean operators and `if` `else`
 
 
 #### mini-project
