@@ -45,11 +45,11 @@ Students will design 'recipes' to accomplish ordinary tasks and then apply those
 
 Session 3 teaches students how to think about loops and their applications. Lists and tuples are introduced as elementary datastructures and methods as executable snippets of code. Loops are then used to iterate through lists and other common data structures in order to solve otherwise-tricky problems
 
-	* methods as instruction containers
-	* applications of loops
-	* lists & tuples
-	* the `while` loop
-	* the `for` loop
+  * methods as instruction containers
+  * applications of loops
+  * lists & tuples
+  * the `while` loop
+  * the `for` loop
 
 ### start the project
 
