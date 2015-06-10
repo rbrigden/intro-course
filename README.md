@@ -1,8 +1,8 @@
 # a flavour of CS in 15 hours 
 
 This course was taught in July 2015 to middle school and early high school students at the Chatham Marconi Maritime Center (CMMC) in Chatham,
-Massachusetts. The course is compressed and is intended to give students a simple introduction to computer science principles and serve as a
-springboard for further study and enrichment.
+Massachusetts. The compressed course is intended to give students a simple introduction to computer science principles and serve as a
+springboard for further study and enrichment. All of the learning materials are linked in the syllabus below.
 
 ## syllabus
 
@@ -17,9 +17,12 @@ hardware, binary and hexadecimal numbers, and logic gates.
 #### micro lessons
   * history and applications of computing
   * computer hardware 101
-  *
-  * boolean operators
-  * methods as instruction containers
+  * binary and hexidecimal numbers
+  * logic gates
+
+#### mini-project
+
+interactive logic gate game
 
 ### cookin' up code
 
@@ -31,24 +34,26 @@ Students will design 'recipes' to accomplish ordinary tasks and then apply those
   * how to write pseudo-code
   * basic datatypes
   * arithmetic with python
-  * boolean operators and ``if`` ``else``
-  * methods as instruction containers
+  * boolean operators and ``if else``
+
 
 #### mini-project
   
+
 ### loop mania
 
-Session 3 will teach students how to think about loops as tasks executed under a set of
+Session 3 will teach students how to think about loops as tasks executed under a set of conditions. They will apply loops to
+solve problems
 
-
+	* methods as instruction containers
 	* applications of loops
 	* lists & tuples
 	* the ``while`` loop
 	* the ``for`` loop
-	*
+
 
 ### start the project
 
 
-### session 5: finish the project
+### finish the project
 
