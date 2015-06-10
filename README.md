@@ -35,7 +35,7 @@ Students will design 'recipes' to accomplish ordinary tasks and then apply those
   * how to write pseudo-code
   * basic datatypes
   * arithmetic with python
-  * boolean operators and ``if else``
+  * boolean operators and `if else`
 
 
 #### mini-project
@@ -48,8 +48,8 @@ Session 3 teaches students how to think about loops and their applications. List
 	* methods as instruction containers
 	* applications of loops
 	* lists & tuples
-	* the ``while`` loop
-	* the ``for`` loop
+	* the `while` loop
+	* the `for` loop
 
 ### start the project
 
