@@ -28,14 +28,15 @@ interactive logic gate game
 ### cookin' up code
 
 Session 2 introduces the concept of a programming language as an intellegible way to assign a computer instructions.
-Students will design 'recipes' to accomplish ordinary tasks and then apply those methods to write pseudo-code for a given algorithm. Student's write python code along the lines of their pseudo-code and complete a thorough code design process for the first time.
+Students will design 'recipes' to accomplish ordinary tasks and then apply those methods to write pseudo-code for a given algorithm.
+Students write python code along the lines of their pseudo-code and complete a thorough code design process for the first time.
 
 #### micro lessons
   * intro to algorithms
   * how to write pseudo-code
   * basic datatypes
   * arithmetic with python
-  * boolean operators and `if` `else`
+  * boolean operators and `if` `else` statements
 
 
 #### mini-project
@@ -43,7 +44,10 @@ Students will design 'recipes' to accomplish ordinary tasks and then apply those
 
 ### loop mania
 
-Session 3 teaches students how to think about loops and their applications. Lists and tuples are introduced as elementary datastructures and methods as executable snippets of code. Loops are then used to iterate through lists and other common data structures in order to solve otherwise-tricky problems
+Session 3 teaches students how to think about loops and their applications.
+Lists and tuples are introduced as elementary datastructures and methods as
+executable snippets of code. Loops are then used to iterate through lists
+to solve otherwise-tricky problems.
 
   * methods as instruction containers
   * applications of loops
