@@ -8,7 +8,7 @@ The 15 hour crash course is separated into 5 individual 3-hour sessions. Each se
 
 ### what is computer science?
 
-Session 1 will have students question the technology they take for granted every day as they are guided through a historically driven presentation about computer hardware, binary and hexadecimal numbers, and logic gates.
+Session 1 will have students question the technology they take for granted every day as they are guided presentations about computer hardware, binary and hexadecimal numbers, and logic gates.
 
 #### micro lessons
   * history and applications of computing
