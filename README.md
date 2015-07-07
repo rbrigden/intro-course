@@ -34,6 +34,7 @@ Students will design 'recipes' to accomplish ordinary tasks and then apply those
 
 
 #### mini-project
+  * snake game
   
 
 ### loop mania
@@ -47,6 +48,8 @@ Session 3 teaches students how to think about loops and their applications. List
   * the `for` loop
 
 ### start the project
+  
+Session 4 initializes the code design process for 
 
 
 ### finish the project
