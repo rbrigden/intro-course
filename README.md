@@ -57,4 +57,4 @@ Students will work to consolidate and reconfer the previous three lessons to com
 
 ### start on a project
 
-It is open season now! Students are givent the oppotunity to develop their own project that incorporates pygame or the fundamental Python concepts and syntax already introduced. 
+It is open season now! Students are given the oppotunity to develop their own project that incorporates Pygame or the fundamental Python concepts and syntax already introduced. 
