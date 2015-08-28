@@ -4,14 +4,13 @@ This course was taught in July 2015 to middle school and early high school stude
 
 ## syllabus
 
-The 15 hour crash course is separated into 5 individual 3-hour sessions. Each session includes a video lesson, powerpoint presentation, notes and documented mini-project.
+The 15 hour crash course is separated into 5 individual 3-hour sessions. 
 
 ### what is computer science?
 
 Session 1 will have students question the technology they take for granted every day as they are guided presentations about computer hardware, binary and hexadecimal numbers, and logic gates.
 
 #### micro lessons
-  * history and applications of computing
   * computer hardware 101
   * binary and hexidecimal numbers
   * logic gates
@@ -34,7 +33,7 @@ Students will design 'recipes' to accomplish ordinary tasks and then apply those
 
 
 #### mini-project
-  * snake game
+  * 'finding' the number e
   
 
 ### loop mania
@@ -47,12 +46,15 @@ Session 3 teaches students how to think about loops and their applications. List
   * the `while` loop
   * the `for` loop
 
-### start the project
+### build a game
   
-Session 4 initializes the code design process for 
+Students will work to consolidate and reconfer the previous three lessons to complete missing lines of code in the classic arcade game, 'Snake'.
 
+ * review of conditional statements and loops
+ * conceptualizing a game in terms of pixels and coordinates
+ * building code around this quantitative understanding
+ * introduction to pygame, a gaming library for python
 
-### finish the project
+### start on a project
 
-
- as tasks executed under a set of conditions.
+It is open season now! Students are givent the oppotunity to develop their own project that incorporates pygame or the fundamental Python concepts and syntax already introduced. 
